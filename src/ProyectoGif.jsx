@@ -17,7 +17,7 @@ export const ProyectoGif = () => {
 return (
   <>
       {/*Titulo*/}
-      <h1>ProyectoGifFrank</h1>
+      <h1>ProyectoGifNuevaApi</h1>
       {/* // Renderizamos el componente AddCategory y le pasamos una función que se
 activará cuando se agregue una nueva
 categoría */}
